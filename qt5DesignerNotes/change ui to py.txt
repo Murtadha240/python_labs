@@ -1,0 +1,1 @@
+uicqt5 ui > py
